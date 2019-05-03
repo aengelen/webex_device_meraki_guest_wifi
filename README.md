@@ -1,2 +1,6 @@
-# webex_device_meraki_gues_wifi
-Add a "Guest WiFi" button on any Webex device to enable a Meraki SSID (and push a PSK key)
+# Improve Guest WiFi Experience
+
+## Description
+Add a "Guest WiFi" button on any Cisco Webex device to enable a Cisco Meraki SSID (and push a new PSK key).
+
+
