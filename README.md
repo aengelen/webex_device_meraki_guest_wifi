@@ -34,7 +34,7 @@ Once done, the user can connect to the SSID with the chosen PSK key.
 ## Cisco Webex Setup
 
 1. Access the local web interface of the Cisco Webex device ([procedure](https://help.webex.com/en-us/n5pqqcm/Advanced-Settings-for-Room-and-Desk-Devices))
-2. Enable the HTTP client:
+2. Enable the HTTP client (be aware of security implications of enabling insecure HTTPS):
      > Setup > Configuration > HttpClient > AllowInsecureHTTPS > True
 
      and
@@ -46,3 +46,5 @@ Once done, the user can connect to the SSID with the chosen PSK key.
      and
 
      > Setup > Configuration > Mode > On
+4. Navigate to:
+     > Integration > In-Room Control > Launch Editor
