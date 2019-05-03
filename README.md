@@ -49,4 +49,7 @@ Once done, the user can connect to the SSID with the chosen PSK key.
 4. Navigate to:
      > Integration > In-Room Control > Launch Editor
 
-5. Open the menu in the upper-right corner, select *Import from file* and find [panel.xml](./panel.xml).
+5. Open the menu in the upper-right corner, select *Import from file* and find [panel.xml](./panel.xml) in which you can replace *EDR-Meraki-Guest* by the name of your SSID.
+6. Go to:
+     > Integration > Macro Editor > Create new macro
+7.
