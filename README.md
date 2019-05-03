@@ -49,7 +49,8 @@ Once done, the user can connect to the SSID with the chosen PSK key.
 4. Navigate to:
      > Integration > In-Room Control > Launch Editor
 
-5. Open the menu in the upper-right corner, select *Import from file* and find [panel.xml](./panel.xml) in which you can replace *EDR-Meraki-Guest* by the name of your SSID.
+5. Open the menu in the upper-right corner, select *Import from file* and find [panel.xml](./panel.xml) in which you can replace *EDR-Meraki-Guest* by the name of your SSID
 6. Go to:
      > Integration > Macro Editor > Create new macro
-7.
+7. Paste the code from [macro.js](./macro.js) in the main frame and replace the constant value by your own values. The network ID can be obtained by following this [guide](https://documentation.meraki.com/zGeneral_Administration/Other_Topics/The_Cisco_Meraki_Dashboard_API)
+8. Save the newly created macro and switch on the toggle to enable it
