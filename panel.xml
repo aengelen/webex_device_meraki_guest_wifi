@@ -1,0 +1,23 @@
+<Extensions>
+  <Version>1.5</Version>
+  <Panel>
+    <PanelId>panel_2</PanelId>
+    <Type>Statusbar</Type>
+    <Icon>Language</Icon>
+    <Order>2</Order>
+    <Color>#666666</Color>
+    <Name>Guest WiFi</Name>
+    <Page>
+      <Name>Guest WiFi</Name>
+      <Row>
+        <Name>EDR-Meraki-Guest</Name>
+        <Widget>
+          <WidgetId>wifi</WidgetId>
+          <Type>ToggleButton</Type>
+          <Options>size=1</Options>
+        </Widget>
+      </Row>
+      <Options/>
+    </Page>
+  </Panel>
+</Extensions>
